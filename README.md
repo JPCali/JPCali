@@ -3,10 +3,10 @@
 
 
 <div>
-<p>Hi there, I'm <strong>Anna Hidalgo Costa</strong>, a passionate and diligent student at GeekHub Academy 🚀 from Barcelona, Spain, forging a path toward becoming a proficient <strong>Full Stack Developer</strong>. Through a combination of theoretical knowledge and hands-on experience, I am dedicated to creating a future where technology transforms possibilities. Join me on this exciting journey as I continue to learn, grow, and make my mark in the dynamic world of Full Stack Development.</p>
+<p>Hi there, I'm <strong>Juan Pablo Calí</strong>, a passionate and diligent student at GeekHub Academy 🚀 from Valencia, Spain, forging a path toward becoming a proficient <strong>Full Stack Developer</strong>. Through a combination of theoretical knowledge and hands-on experience, I am dedicated to creating a future where technology transforms possibilities. Join me on this exciting journey as I continue to learn, grow, and make my mark in the dynamic world of Full Stack Development.</p>
 </div>
 
-Currently, I'm a Community Team Member 🙍🏽‍♂️ [@annahico](https://github.com/JPCali).
+Currently, I'm a Community Team Member 🙍🏽‍♂️ [@JPCali](https://github.com/JPCali).
 
 
 
