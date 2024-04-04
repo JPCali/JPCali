@@ -26,4 +26,4 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ [@JPCali](https://githu
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=annahico&size_weight=0.5&count_weight=0.5)
 
 <h2>📈 My GitHub Stats:</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=annahico&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="link to stats" alt="GitHub Stats"></p>
